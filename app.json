@@ -6,8 +6,8 @@
         "pdisk",
         "shortner"
     ],
-    "website": "https://github.com/ParitoshPky/pDisk-Uploader",
-    "repository": "https://github.com/ParitoshPky/pDisk-Uploader",
+    "website": "https://github.com/Manjeetxtyy/pdisk_bulk_uploder",
+    "repository": "https://github.com/Manjeetxtyy/pdisk_bulk_uploder",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token (must add)",
@@ -15,15 +15,15 @@
         },
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "3310601"
+            "value": ""
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "ad2c76a95f2f3decb60024bb918d20c6"
+            "value": ""
         },
         "PDISK_API_KEY": {
             "description": "Get this from https://www.pdisk.me/use-api (must change)",
-            "value": "0306635c1e2ed7ff9a4381ae2411b05f"
+            "value": ""
         },
         "CHANNEL": {
             "description": "Enter your telegram channel Username (must change and without @)",
