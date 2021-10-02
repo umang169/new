@@ -144,7 +144,7 @@ async def remove_username(new_List):
 async def addFooter(str):
     footer = """
 ━━━━━━━━━━━━━━━
-⭐️JOIN CHANNEL ➡️ /""" + CHANNEL
+⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
     return str + footer
 
 bot.run()
