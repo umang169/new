@@ -47,7 +47,7 @@ async def pdisk_uploader(bot, message):
         else:
             await bot.send_photo(message.chat.id, message.photo.file_id, caption=f'{pdisk_link}')
     except Exception as e:
-        await message.reply(f'{pdisk_link}', quote=True)
+       await message.reply(f'Error: {e}', quote=True)
 
 
 async def get_ptitle(url):
